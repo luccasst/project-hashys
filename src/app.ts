@@ -41,5 +41,5 @@ class App {
 }
 
 export { App };
-
+ 
 export const { expressApp } = new App();
